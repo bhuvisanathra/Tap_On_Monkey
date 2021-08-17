@@ -1,3 +1,4 @@
+//Variables
 const closedMonkeyFace = document.querySelector('.closed')
 const openMonkeyFace = document.querySelector('.open')
 const btn = document.querySelector('.btn')
